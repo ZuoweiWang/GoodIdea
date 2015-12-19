@@ -2,3 +2,8 @@
 2. [基于webpack搭建前端工程解决方案探](https://github.com/chemdemo/chemdemo.github.io/issues)
 3. [webpack & react小书](https://hulufei.gitbooks.io/react-tutorial/content/webpack.html)
 4. [gulp + webpack 构建多页面前端项目](https://github.com/fwon/blog/issues/17)
+5. [5分钟内使用React、Webpack与ES6构建应用](http://blog.leapoahead.com/2015/09/12/react-es6-webpack-in-5-minutes/)
+6. [JSON Web Token（JWT）](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
+7. [webpack体验](http://yikaj.gitcafe.io/2015/06/18/webpack%E4%BD%93%E9%AA%8C/)
+8. [Chrome 浏览器文件关联调试方法](http://acwong.org/2015/05/26/chrome-file-associations-debugging/)
+9. [陈三](https://www.zfanw.com/blog/)
