@@ -15,3 +15,4 @@
 15. [awesome-javascript景庄吉克](https://github.com/wwsun/awesome-javascript)
 16. [react-hot-loader](https://github.com/gaearon)
 17. [移动端布局终极解决方案](http://imochen.github.io/hotcss/)
+18. [react-webpack-generator](http://www.checkme.tw/wordpress/react-webpack-generator/)
