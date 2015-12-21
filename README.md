@@ -16,3 +16,5 @@
 16. [react-hot-loader](https://github.com/gaearon)
 17. [移动端布局终极解决方案](http://imochen.github.io/hotcss/)
 18. [react-webpack-generator](http://www.checkme.tw/wordpress/react-webpack-generator/)
+19. [Redux 中文文档](https://camsong.github.io/redux-in-chinese/index.html)
+20. [React Router 中文文档](http://react-guide.github.io/react-router-cn/)
