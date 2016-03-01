@@ -18,3 +18,4 @@
 18. [react-webpack-generator](http://www.checkme.tw/wordpress/react-webpack-generator/)
 19. [Redux 中文文档](https://camsong.github.io/redux-in-chinese/index.html)
 20. [React Router 中文文档](http://react-guide.github.io/react-router-cn/)
+21. [ReactJS 精华文章](http://zhuanlan.zhihu.com/purerender)
