@@ -19,3 +19,4 @@
 19. [Redux 中文文档](https://camsong.github.io/redux-in-chinese/index.html)
 20. [React Router 中文文档](http://react-guide.github.io/react-router-cn/)
 21. [ReactJS 精华文章](http://zhuanlan.zhihu.com/purerender)
+22. [TypeScript Handbook（中文版）](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)
