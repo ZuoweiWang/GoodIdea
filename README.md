@@ -22,3 +22,5 @@
 22. [TypeScript Handbook（中文版）](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)
 23. [移动端的touch事件处理] (https://segmentfault.com/a/1190000000515816#articleHeader1)
 24. [拖动出现这种警告问题。] (https://segmentfault.com/q/1010000006690828)
+25. [移动端适配方案(下)] (https://segmentfault.com/a/1190000000515816#articleHeader1)
+26. [手机百度移动适配切图解决方案介绍](http://js8.in/2015/12/12/%E6%89%8B%E6%9C%BA%E7%99%BE%E5%BA%A6%E7%A7%BB%E5%8A%A8%E9%80%82%E9%85%8D%E5%88%87%E5%9B%BE%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E4%BB%8B%E7%BB%8D/)
