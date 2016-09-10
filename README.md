@@ -20,3 +20,5 @@
 20. [React Router 中文文档](http://react-guide.github.io/react-router-cn/)
 21. [ReactJS 精华文章](http://zhuanlan.zhihu.com/purerender)
 22. [TypeScript Handbook（中文版）](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)
+23. [移动端的touch事件处理] (https://segmentfault.com/a/1190000000515816#articleHeader1)
+24. [拖动出现这种警告问题。] (https://segmentfault.com/q/1010000006690828)
