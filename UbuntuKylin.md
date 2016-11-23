@@ -20,7 +20,7 @@ $ sudo apt-get update
 
 $ sudo apt-get install git -y
 
-[NVM setu](https://github.com/creationix/nvm)
+[NVM setup](https://github.com/creationix/nvm)
 -
 sudo apt install build-essential libssl-dev -y
 
