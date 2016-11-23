@@ -26,3 +26,10 @@ sudo apt install build-essential libssl-dev -y
 
 wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash
 
+source /home/wei/.bashrc
+
+ssh-keys set
+-
+
+https://git.oschina.net/oschina/git-osc/wikis/%E5%B8%AE%E5%8A%A9#ssh-keys
+
