@@ -1,5 +1,6 @@
+Ubuntu软件源详解(http://woshijpf.github.io/2016/10/23/Ubuntu%E8%BD%AF%E4%BB%B6%E6%BA%90%E8%AF%A6%E8%A7%A3/)
 vmtools setup
-
+-
 open-vm-tools
 
 $ sudo apt install open-vm-tools open-vm-tools-desktop
