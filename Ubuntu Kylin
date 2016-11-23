@@ -1,0 +1,10 @@
+Ubuntu使用ppa源安装最新版git
+1. 添加git源
+
+$ sudo add-apt-repository ppa:git-core/ppa
+2. 更新软件列表
+
+$ sudo apt-get update
+3. 安装git
+
+$ sudo apt-get install git
