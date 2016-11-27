@@ -33,6 +33,15 @@ http://launchd.info/
 
 
 ➜ ✗ ps aux | grep "redis-server"
+
+--
 jasdeep        98081   0.0  0.0  2564132    100   ??  S    Wed10am   6:56.33 redis-server
+
+--
 ➜  ✗ kill -9 98081
+
+--
+[Mac下配置redis](https://davidwangtm.github.io/2016/07/20/mac_redis_introduction/)
+
+
  
